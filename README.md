@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?size=626&ext=jpg&ga=GA1.1.2053276316.1687186818&semt=ais)]
+![MasterHead](https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?size=626&ext=jpg&ga=GA1.1.2053276316.1687186818&semt=ais)
 <h1 align="center">Hi 👋, I'm Mithun Mohan</h1>
 <h3 align="center">A passionate Automation Tester-SDET</h3>
 <img align="right" alt="Coding" width=400 src="https://medium.com/@albertcavalcante/how-to-reach-developer-experience-supreme-level-part-two-suffering-because-of-bad-dx-da4e505b26f2">
