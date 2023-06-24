@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?size=626&ext=jpg&ga=GA1.1.2053276316.1687186818&semt=ais)
+![MasterHead](https://res.infoq.com/articles/test-driven-design-java/en/headerimage/test-driven-development-design-technique-logo-big-1557225038423.jpg)
 <h1 align="center">Hi 👋, I'm Mithun Mohan</h1>
 <h3 align="center">A passionate Automation Tester-SDET</h3>
 <img align="right" alt="Coding" width=400 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
